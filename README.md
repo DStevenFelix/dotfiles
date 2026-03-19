@@ -1,6 +1,6 @@
 # ⚙️ Dotfiles - StevenKlaus 配置文件 (Linux/WSL)
 
-这是用户 DStevenFelix 在 StevenKlaus 机器上使用的核心配置文件仓库，通过 Git 进行版本控制和快速部署。
+这是我在WSL中使用的核心配置文件仓库，通过 Git 进行版本控制和快速部署。
 
 ---
 
@@ -26,4 +26,4 @@
 # 确保 SSH 密钥已设置并添加到 GitHub
 mkdir -p ~/git/
 cd ~/git/
-git clone [YourGitHubURL]
+git clone https://github.com/DStevenFelix/dotfiles.git
